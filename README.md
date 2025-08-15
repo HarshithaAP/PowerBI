@@ -19,3 +19,11 @@ This project allowed me to enhance my skills in advanced visualization technique
 
 🔧 Tools Used: Power BI Desktop, DAX, Excel
 🔑 Skills Highlighted: Data Modeling, Interactive Visuals, KPI Tracking
+
+
+# Excel 
+Sample Excel Dashboards :
+
+Project 2 :
+============
+See full Dashboard here : 
